@@ -9,7 +9,7 @@
   From robotics to web experiments, I thrive on chaos, caffeine, and learning by doing.  
   Mistakes aren’t failures—they’re just part of the fun.
 
-  check me out at ![portfolio](https://faizeenhoque.xyz/)
+  check me out at https://faizeenhoque.xyz/
 </p>
 
 ----------------
