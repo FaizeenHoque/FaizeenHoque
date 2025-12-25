@@ -8,6 +8,8 @@
   I’m always chasing the next project that will either blow up my desk or actually work.  
   From robotics to web experiments, I thrive on chaos, caffeine, and learning by doing.  
   Mistakes aren’t failures—they’re just part of the fun.
+
+  check me out at ![portfolio](https://faizeenhoque.xyz/)
 </p>
 
 ----------------
