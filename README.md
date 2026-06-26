@@ -14,14 +14,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23902&api_domain=hackatime.hackclub.com&&custom_title=Development+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dracula" alt="Development Stats" />
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizeenHoque/FaizeenHoque/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizeenHoque/FaizeenHoque/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/FaizeenHoque/FaizeenHoque/output/pacman-contribution-graph.svg" />
-  </picture>
 </div>
 
 ----------------
